@@ -1,6 +1,11 @@
 # Low IQ Test
 
-this app will make a test for if you have a low `IQ` using `Captcha`
+In this app will make a test for if you have a low `IQ` using `Captcha`
+`backend` and `front end`
+
+In this project i used two library
+* **Captcha**
+* **flask**
 
 ## Setup
 1. clone my project
