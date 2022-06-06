@@ -26,6 +26,10 @@ $ python3 ./app.py || python app.py
 $ sh ./setup.sh || bash ./setup.sh
 ```
 
+## How To use
+just run **__app.py__** then go to [http://localhost:5000/](http://localhost:5000/)
+and enter the word then click send `button`
+
 ### End
 
 > enjoy :)
